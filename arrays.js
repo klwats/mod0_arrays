@@ -10,3 +10,5 @@ console.log(areaCodes)
 Add to the beginning of Array
 trues.unshift(false)
 console.log(trues)
+
+Index positions is the position in the Array, starting with 0; length of an array will always be index+1
